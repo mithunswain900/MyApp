@@ -1,0 +1,64 @@
+#container {
+  text-align: center;
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+#container p {
+  font-size: 16px;
+  line-height: 22px;
+
+  color: #8c8c8c;
+
+  margin: 0;
+}
+
+#container a {
+  text-decoration: none;
+}
+.slides{
+  background:#ffffff;
+}
+ion-card{
+  width: 100%;
+  box-shadow:none;
+  border-radius: 14px;
+  padding: 1px;
+  background: rgb(255, 255, 255,.8);
+.main{
+  width: 60px;
+  height: 60px;
+  border-radius:50px;
+  box-shadow: 7px 7px 20px #dbdfe2,
+              -7px -7px 20px #ffffff;
+
+    display: flex;
+    align-items:center;
+    justify-content:center;
+
+    img{
+      width:30px;
+    }
+
+
+            }
+
+profile-logo{
+  border-radius: 50px;
+  
+}
+
+  
+
+  
+
+}
